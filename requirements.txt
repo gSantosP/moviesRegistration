@@ -8,4 +8,8 @@ requests==2.22.0
 six==1.12.0
 sqlparse==0.3.0
 urllib3==1.25.3
+<<<<<<< HEAD
 xlrd==1.2.0
+=======
+xlrd==1.2.0
+>>>>>>> 7ca3432c9066de75706d56bcccdbc4b773077ed1
